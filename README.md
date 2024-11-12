@@ -76,7 +76,7 @@ The classification report provides further insight into the model's precision, r
 
 ### 4.1 Key Insights
 - **High Accuracy and Reliability**: The model’s performance metrics demonstrate its capability to accurately detect defects, which can significantly reduce errors associated with manual inspection.
-- **Improved Efficiency**: Automating defect detection can expedite the inspection process, which is traditionally time-consuming when done manually.
+- **Improved Efficiency**: Automating defect detection can expedite the inspection process, which is traditionally time-consuming when done manually..
 - **Industrial Application Potential**: Given its high accuracy and reliability, the model could be deployed in an industrial setting to improve quality assurance processes.
 
 ### 4.2 Limitations
